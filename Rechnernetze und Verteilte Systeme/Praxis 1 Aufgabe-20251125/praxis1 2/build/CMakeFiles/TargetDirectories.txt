@@ -1,0 +1,5 @@
+/Users/min/Desktop/Info/infoWs2526/Rechnernetze_und_verteilte System/Praxis 1 Aufgabe-20251125/praxis1 2/build/CMakeFiles/webserver.dir
+/Users/min/Desktop/Info/infoWs2526/Rechnernetze_und_verteilte System/Praxis 1 Aufgabe-20251125/praxis1 2/build/CMakeFiles/package.dir
+/Users/min/Desktop/Info/infoWs2526/Rechnernetze_und_verteilte System/Praxis 1 Aufgabe-20251125/praxis1 2/build/CMakeFiles/package_source.dir
+/Users/min/Desktop/Info/infoWs2526/Rechnernetze_und_verteilte System/Praxis 1 Aufgabe-20251125/praxis1 2/build/CMakeFiles/edit_cache.dir
+/Users/min/Desktop/Info/infoWs2526/Rechnernetze_und_verteilte System/Praxis 1 Aufgabe-20251125/praxis1 2/build/CMakeFiles/rebuild_cache.dir

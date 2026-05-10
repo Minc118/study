@@ -48,7 +48,7 @@ The implementations are written for learning and coursework submission. Many fun
 
 ---
 
-# Wissenschaftliches Rechnen 作业
+# Wissenschaftlisches Rechnen 作业
 
 这个文件夹包含一组科学计算课程作业的 Python 实现。每个文件对应不同的数值计算主题，重点是手动实现算法本身，而不是直接调用 NumPy 中已经封装好的高级函数。
 

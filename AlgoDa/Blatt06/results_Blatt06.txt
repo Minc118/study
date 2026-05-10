@@ -1,0 +1,35 @@
+AlgoDatBot,  13.06.2025, 16:24:30, b2a645836e0486d9687db5486695549840fd920d
+Korrektur Blatt 6
+
+Aufgabe 3.1
+	Wird distTo richtig zugwiesen?: 4/4
+	Wird edgeTo richtig zugwiesen?: 4/4
+	Wird postorder richtig zugwiesen?: 5/5
+	Wird preorder richtig zugwiesen?: 5/5
+Total points for Aufgabe 3.1: 18/18
+
+Aufgabe 3.2
+	Gibt die Methode pathTo, den richtigen Weg zurück?: 12/12
+Total points for Aufgabe 3.2: 12/12
+
+Aufgabe 3.3
+	Checkt die Implementierung von mazegrid: 15/15
+Total points for Aufgabe 3.3: 15/15
+
+Aufgabe 3.4
+	Checkt die Implementierung von randomNonrecursivedfs: 10/10
+	Checkt die Implementierung von randomdfs: 5/5
+Total points for Aufgabe 3.4: 15/15
+
+Aufgabe 3.5
+	Checkt die Implementierung von addEdge: 4/4
+	Checkt die Implementierung von hasEdge: 6/6
+Total points for Aufgabe 3.5: 10/10
+
+Aufgabe 3.6
+	Checkt die Implementierung von buildMaze: 20/20
+	Checkt die Implementierung von findWay: 0/10
+	  java.lang.AssertionError: findWay gibt nicht den korrekten Weg zurück.
+Total points for Aufgabe 3.6: 20/30
+
+Total points: 90/100

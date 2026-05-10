@@ -1,0 +1,25 @@
+Homework Results for minjian
+==================================================
+
+Blatt00: 10/10 points
+Blatt01: 100/100 points
+Blatt02: 100/100 points
+Blatt03: 100/100 points
+Blatt04: 90/100 points
+Blatt05: 100/100 points
+Blatt06: 90/100 points
+Blatt07: 35/100 points
+Blatt08: No submission or grading not available
+Blatt09: No submission or grading not available
+Blatt10: No submission or grading not available
+
+------------------------------
+Total Semester Points: 625/710
+Overall Percentage: 88.0%
+
+==============================
+EXAM ELIGIBILITY ASSESSMENT
+Total points achieved: 625 (including bonus)
+Minimum points required: 600.0
+Required threshold: 60.0% of 1000 base points
+Exam eligible: YES

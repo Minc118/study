@@ -1,0 +1,40 @@
+AlgoDatBot,  13.05.2025, 00:20:32, 9ad0e6402e8537c1652a8c24d217496beb851f0c
+Korrektur Blatt 1
+
+Aufgabe 3
+	Test equals(): 5/5
+	Test getter methods: 5/5
+	Test constructor of pair with `Double[]` objects as elements: 5/5
+	Test constructor of pair with Integer elements: 5/5
+	Test setter methods: 5/5
+	Test `swap()`: 5/5
+Total points for Aufgabe 3: 30/30
+
+Aufgabe 4.1
+	Test `area()` method of ConvexPolygon: 5/5
+	Test constructor of ConvexPolygon: 5/5
+	Test `perimeter()` method of ConvexPolygon: 5/5
+	Test static method `somePolygons()` of ConvexPolygon: 5/5
+	Test static method `totalArea()` of ConvexPolygon: 5/5
+Total points for Aufgabe 4.1: 25/25
+
+Aufgabe 4.2
+	Test `area()` method of Triangle: 10/10
+	Test constructor of Triangle: 5/5
+	Test copy constructor of Triangle: 5/5
+Total points for Aufgabe 4.2: 20/20
+
+Aufgabe 4.3
+	Test area calculation of Tetragon: 1/1
+	Test constructor of Tetragon: 2/2
+	Test perimeter calculation of Tetragon: 1/1
+	Test toString method of Tetragon: 1/1
+Total points for Aufgabe 4.3: 5/5
+
+Aufgabe 4.4
+	Test basic constructor of RegularPolygon: 5/5
+	Test copy constructor of RegularPolygon: 5/5
+	Test `resize()` method of RegularPolygon: 10/10
+Total points for Aufgabe 4.4: 20/20
+
+Total points: 100/100

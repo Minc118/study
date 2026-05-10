@@ -1,0 +1,25 @@
+AlgoDatBot,  17.05.2025, 22:21:11, 218cad8991590d79a5f332058b310c61af5bac6c
+Korrektur Blatt 2
+
+Aufgabe 3.1
+	Test convert() with several numbers: 10/10
+	Test basic functionality of convert(): 5/5
+Total points for Aufgabe 3.1: 15/15
+
+Aufgabe 3.2
+	Test output of toString() for several numbers: 5/5
+	Test basic functionality of toString(): 5/5
+	Test functionality of toString() for 0: 5/5
+Total points for Aufgabe 3.2: 15/15
+
+Aufgabe 4.2
+	Test the winner of  playRound() with several sample games 1: 5/5
+	Test the winner of  playRound() with several sample games 2: 5/5
+	Test the winner of  playRound() with several sample games 3: 5/5
+	Test playRound() with several sample games: 10/10
+	Test playRound() with several sample games: 10/10
+	Test basic functionality of playRound(): 25/25
+	Test the winner playRound() with some special games: 10/10
+Total points for Aufgabe 4.2: 70/70
+
+Total points: 100/100

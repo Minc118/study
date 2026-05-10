@@ -1,0 +1,40 @@
+AlgoDatBot,  10.06.2025, 16:22:28, 4b45ebb755b8ed079dac77d76978293d2f57289e
+Korrektur Blatt 5
+
+Aufgabe 2.1
+	Liefert maxGainRecursive() die richtige Lösung für die Beispielspiele?: 7/7
+	Liefert maxGainRecursive() die richtige Lösung für kurze Zufallsspiele?: 18/18
+Total points for Aufgabe 2.1: 25/25
+
+Aufgabe 2.2
+	Liefert maxGain() die richtige Lösung für lange Zufallsspiele?: 14/14
+	Hat maxGain() (maximal) quadratischen Speicherbedarf?: 5/5
+	Liefert maxGain() die richtige Lösung für die Beispielspiele?: 7/7
+	Liefert maxGain() die richtige Lösung für kurze Zufallsspiele?: 14/14
+Total points for Aufgabe 2.2: 40/40
+
+Aufgabe 2.3
+	Liefert optimalSequence() eine richtige Lösung für zufällige Spiele?: 28/28
+	Liefert optimalSequence() eine richtige Lösung für die Beispielspiele?: 7/7
+Total points for Aufgabe 2.3: 35/35
+
+Aufgabe 3.1
+	Benutzt optBottomUp() einen Zähler vom Typ long?: 0/0
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type long
+
+	Liefert optBottomUp() die richtige Lösung für die großen Beispiele?: 0/0
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type long
+
+	Liefert optBottomUp() die richtige Lösung für die mittleren Beispiele?: 0/0
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type long
+
+	Liefert optBottomUp() die richtige Lösung für die kleinen Beispiele?: 0/0
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type long
+
+Total points for Aufgabe 3.1: 0/0
+
+Total points: 100/100

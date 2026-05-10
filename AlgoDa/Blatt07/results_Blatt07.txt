@@ -1,0 +1,28 @@
+AlgoDatBot,  21.06.2025, 16:21:59, 1f1422cbed678b9279578dc82bd6f4d17b6730be
+Korrektur Blatt 7
+
+Aufgabe 3.1
+	Funktionieren die get- und set-Methode für die Koordinaten?: 5/5
+Total points for Aufgabe 3.1: 5/5
+
+Aufgabe 3.3
+	Funktioniert die Berechung der Cluster für vorgegebene Clusteranzahl richtig?: 30/30
+Total points for Aufgabe 3.3: 30/30
+
+Aufgabe 3.4
+	Funktioniert die Berechung des Variationskoeffizienten richtig?: 0/10
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type double
+
+	Funktioniert die Berechung der Cluster für vorgegebenen threshold richtig?: 0/35
+	  java.lang.AssertionError: Nicht die richtige Anzahl an Clustern gefunden. expected [3] but found [0]
+Total points for Aufgabe 3.4: 0/45
+
+Aufgabe 3.5
+	Funktioniert die Validierung für den IRIS Datensatz?: 0/20
+	  java.lang.Error: Unresolved compilation problem: 
+	This method must return a result of type int[]
+
+Total points for Aufgabe 3.5: 0/20
+
+Total points: 35/100

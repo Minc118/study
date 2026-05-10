@@ -1,0 +1,7 @@
+torch @ https://download.pytorch.org/whl/cpu
+matplotlib==3.10.3
+numpy==2.2.6
+pytest==8.3.5
+scikit_learn==1.6.1
+torchsummary==1.5.1
+tqdm==4.67.1
